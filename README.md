@@ -11,4 +11,4 @@ Näited: vanus,palk,temperatuur,kaal(ves),pikkus
 2. Unique - unikaalsus
 3. NOT NULL ei lubada tühjad väärtused
 4. Foreign key - saab kasutada ainult teise tabeli väärtused
-5. 
+5. Check - saab sisestada ainlut check määratud väärtused check (mees,naine)
