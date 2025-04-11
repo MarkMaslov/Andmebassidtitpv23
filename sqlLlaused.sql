@@ -1,10 +1,11 @@
 --sql kommentar
---sql server managment stuudion
+--XAMPP Control Panel (start apache,start mysql)
 --connect to
---(localdb) mysqlloaldb
---autentifation: windows auth - admini õigused localhostits
---autentification: sql server auth
---new query
+--localhost
+--autentification: 
+--kasutajanimi --root
+--parool ei ole
+--sql:
 create database maslov;
 use maslov;
 --tabeli loomine
