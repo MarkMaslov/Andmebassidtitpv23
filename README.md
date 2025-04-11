@@ -17,4 +17,5 @@ Näited: vanus,palk,temperatuur,kaal(ves),pikkus
 
 ![pilt](https://github.com/user-attachments/assets/05743bda-e222-4c35-b1c1-042c832fb798)
 ![pilt](https://github.com/user-attachments/assets/359dc199-f04a-4071-863e-069db8cea32d)
-![pilt](https://github.com/user-attachments/assets/b3304434-1551-419f-a26b-df95078c5d9c)
+![pilt](https://github.com/user-attachments/assets/a1cb76e0-ea74-457e-acc9-b015e01bc2d5)
+
