@@ -13,5 +13,6 @@ Näited: vanus,palk,temperatuur,kaal(ves),pikkus
 4. Foreign key - saab kasutada ainult teise tabeli väärtused
 5. Check - saab sisestada ainlut check määratud väärtused check (mees,naine)
 
-
+## sõnad
+baaside haldamise süsteem-sistema upravlenija bazami
 
