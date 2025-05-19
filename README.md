@@ -16,3 +16,12 @@ Näited: vanus,palk,temperatuur,kaal(ves),pikkus
 ## sõnad
 baaside haldamise süsteem-sistema upravlenija bazami
 
+## operaatorid
+1.count
+2.sum
+3.avg
+4.min
+5.max
+6.and
+7.or
+8.not
